@@ -2,7 +2,7 @@
 
 ## Description
 
-This Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript. It allows you to study anywhere on anything as well as containing a function to help you decide on what to study if the user has access to the console. I built this project as a fun way to utilize what im learning in a way that also lets me go back and review what ive learned after.
+This Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript. It allows you to study anywhere on anything as well as containing a function to help you decide on what to study if the user has access to the console. I built this project as a fun way to utilize what im learning in a way that also lets me go back and review what i've learned after.
 
 ## Installation
 
